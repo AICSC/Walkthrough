@@ -87,7 +87,7 @@ The the **System variables** pane in the bottom of the window, scroll to the
 ![Editing a system variable in Windows 8.1](../images/win8-edit-system-variable.png)
 
 Position your cursor at the very end of the **Variable value** text field, and
-type `;C:\MinGW\bin`
+type `;C:\MinGW\bin\;C:\MinGW\msys\1.0\bin\`
 
 Click **Ok**
 
